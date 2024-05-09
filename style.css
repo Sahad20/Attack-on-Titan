@@ -1,0 +1,102 @@
+.nav{ 
+    display: flex;
+    justify-content:space-between ;
+    color: black;
+    font-size: 20px;
+}
+.ul{ 
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none; 
+}
+.nav ul li a{ 
+    color: black;
+    border: none;
+}
+.hero-main{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hero-continer{ 
+    background-color: antiquewhite;
+}
+.hero-title{ 
+    font-size: 50px;
+    
+}
+.hero-para{ 
+    font-size: 20px;
+    color: gray;
+}
+
+.color{ 
+    background-color: rgb(162, 206, 206);
+    height: 10px;
+}
+.future{ 
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.future-title{ 
+    font-size: 30px;
+    padding-left: 130px;
+    
+}
+.future-image{ 
+    height: 700px;
+    background-color: rgb(147, 151, 82);
+}
+.future-img{ 
+    height: 700px;
+    background-color: rgb(147, 151, 82);
+}
+
+.title{ 
+    padding-left: 40px;
+    font-size: 30px;
+}
+.future-continer{ 
+    background-color: rgb(145, 115, 78);
+}
+.content-box{ 
+    text-align: center;
+    font-size: 30px;
+    background-color: #f8f8f8;
+}
+.content-title{ 
+    border-bottom: 2px solid goldenrod;
+}
+.end{ 
+    font-size: 30px;
+    height: 300px;
+}
+.future-titl{ 
+    font-size: 30px;
+    padding-left: 190px;
+}
+.fotter{ 
+    background-color: rgb(85, 80, 80);
+    height: 400px;
+    margin-top: 100px;
+}
+.fotter-title{ 
+    color: wheat;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    border-bottom: 2px solid goldenrod;
+}
+.fotter-para{ 
+    color: white;
+    text-align: center;
+
+}
+.tt{ 
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+}
